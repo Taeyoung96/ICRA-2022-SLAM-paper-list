@@ -4,22 +4,22 @@ This repository is a collection of papers related to SLAM for personal research 
 Based on [Infovoya](https://events.infovaya.com/event?id=88), categories were sorted by myself.  
 If there are any missing papers or incorrect information, please feel free to contact me or leave an issue.  
 
-What is in **bold** is outstanding paper.  
+The title in **bold** is outstanding paper.  
 
 ## Table of contents  
 - [ICRA 2022 workshop related to SLAM](#icra-2022-workshop-related-to-slam)
 - [Visual odometry / Visual SLAM / Structure-From-Motion](#visual-odometry--visual-slam--structure-from-motion)  
-- [Visual-inertial odometry / Visual-inertial SLAM]()  
-- [Visual localization / Visual place recognition]()
-- [LiDAR odometry / LiDAR SLAM]()  
-- [LiDAR-inertial odometry / LiDAR-inertial SLAM]()  
-- [LiDAR localization / LiDAR place recognition]()
-- [Point cloud registration]()  
-- [Sensor fusion]()  
-- [Inertial odometry]()  
-- [WiFi SLAM / WiFi Structure-From-Motion]()  
-- [Collaborative SLAM]()
-- [Scene Flow]()
+- [Visual-inertial odometry / Visual-inertial SLAM](#visual-inertial-odometry--visual-inertial-slam)  
+- [Visual localization / Visual place recognition](#visual-localization--visual-place-recognition)
+- [LiDAR odometry / LiDAR SLAM](#lidar-odometry--lidar-slam)  
+- [LiDAR-inertial odometry / LiDAR-inertial SLAM](#lidar-inertial-odometry--lidar-inertial-slam)  
+- [LiDAR localization / LiDAR place recognition](#lidar-localization--lidar-place-recognition)
+- [Point cloud registration](#point-cloud-registration)  
+- [Sensor fusion](#sensor-fusion)  
+- [Inertial odometry](#inertial-odometry)  
+- [WiFi SLAM / WiFi Structure-From-Motion](#wifi-slam--wifi-structure-from-motion)  
+- [Collaborative SLAM](#collaborative-slam)
+- [Scene Flow](#scene-flow)
 
 ## ICRA 2022 workshop related to SLAM  
 - Robotic Perception and Mapping: Emerging Techniques - [Website](https://sites.google.com/view/ropm)  
@@ -43,12 +43,36 @@ What is in **bold** is outstanding paper.
 - ROW-SLAM: Under-Canopy Cornfield Semantic SLAM  
 - Loop Closure Detection and SLAM in Vineyards with Deep Semantic Cues  
 - Spatial Acoustic Projection for 3D Imaging Sonar Reconstruction  
+- Robust Semantic Mapping and Localization on a Free-Flying Robot in Microgravity  
+- 360VO: Visual Odometry Using a Single 360 Camera  
+- SAGE: SLAM with Appearance and Geometry Prior for Endoscopy  
+- Towards Scale Consistent Monocular Visual Odometry by Learning from the Virtual World  
+- Continuous-Time vs. Discrete-Time Vision-Based SLAM: A Comparative Study  
+- DKNAS: A Practical Deep Keypoint Extraction Framework Based on Neural Architecture Search  
+- **Precise 3D Reconstruction of Plants from UAV Imagery Combining Bundle Adjustment and Template Matching**  
+- MSC-VO: Exploiting Manhattan and Structural Constraints for Visual Odometry  
+- A Model for Multi-View Residual Covariances Based on Perspective Deformation  
+- Incremental Abstraction in Distributed Probabilistic SLAM Graphs  
+- UV-SLAM: Unconstrained Line-Based SLAM Using Vanishing Points for Structural Mapping  
+- A Right Invariant Extended Kalman Filter for Object Based SLAM  
+- Self-Supervised Ego-Motion Estimation Based on Multi-Layer Fusion of RGB and Inferred Depth  
+- Visual Localization and Mapping Leveraging the Constraints of Local Ground Manifolds  
+- Panoptic Multi-TSDFs: A Flexible Representation for Online Multi-Resolution Volumetric Mapping and Long-Term Dynamic Scene Consistency  
+- FD-SLAM: 3-D Reconstruction Using Features and Dense Matching  
+- AirDOS: Dynamic SLAM Benefits from Articulated Objects  
 - 
+
 
 ## Visual-inertial odometry / Visual-inertial SLAM  
 - High Definition, Inexpensive, Underwater Mapping  
 - GVINS: Tightly Coupled GNSS-Visual-Inertial Fusion for Smooth and Consistent State Estimation  
-- 
+- AstroLoc: An Efficient and Robust Localizer for a Free-Flying Robot  
+- VIP-SLAM: An Efficient Tightly-Coupled RGB-D Visual Inertial Planar SLAM  
+- 1D-LRF Aided Visual-Inertial Odometry for High-Altitude MAV Flight  
+- Tightly-Coupled Magneto-Visual-Inertial Fusion for Long Term Localization in Indoor Environment  
+- Interval-Based Visual-Inertial LiDAR SLAM with Anchoring Poses  
+- The Visual-Inertial-Dynamical Multirotor Dataset  
+- Map-Based Visual-Inertial Localization: A Numerical Study  
 
 ## Visual localization / Visual place recognition  
 - A Deep Feature Aggregation Network for Accurate Indoor Camera Localization  
@@ -60,6 +84,17 @@ What is in **bold** is outstanding paper.
 - Fusing Convolutional Neural Network and Geometric Constraint for Image-Based Indoor Localization  
 - Diff-Net: Image Feature Difference Based High-Definition Map Change Detection for Autonomous Driving  
 - Mobile Robot Localization Considering Uncertainty of Depth Regression From Camera Images  
+- SemLoc: Accurate and Robust Visual Localization with Semantic and Structural Constraints from Prior Maps  
+- PixSelect: Less but Reliable Pixels for Accurate and Efficient Localization  
+- Robust Monocular Localization in Sparse HD Maps Leveraging Multi-Task Uncertainty Estimation  
+- Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization  
+- OpenSceneVLAD: Appearance Invariant, Open Set Scene Classification  
+- MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery  
+- LaneMatch: A Practical Real-Time Localization Method Via Lane-Matching  
+- Binary Graph Descriptor for Robust Relocalization on Heterogeneous Data  
+- Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs  
+- HD Ground - a Database for Ground Texture Based Localization  
+- Crossview Mapping with Graph-Based Geolocalization on City-Scale Street Maps  
 - 
 
 ## LiDAR odometry / LiDAR SLAM
@@ -70,16 +105,34 @@ What is in **bold** is outstanding paper.
 - Robust Self-Supervised LiDAR Odometry Via Representative Structure Discovery and 3D Inherent Error Modeling  
 - Direct LiDAR Odometry: Fast Localization with Dense Point Clouds  
 - Ensemble Kalman Filter Based LiDAR Odometry for Skewed Point Clouds Using Scan Slicing  
-- 
+- LLOL: Low-Latency Odometry for Spinning Lidars  
+- Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM  
+- ART-SLAM: Accurate Real-Time 6DoF LiDAR SLAM  
+- Performance Models in Robotics with a Use Case on SLAM  
+- LT-Mapper: A Modular Framework for LiDAR-Based Lifelong Mapping  
+- DynamicFilter: An Online Dynamic Objects Removal Framework for Highly Dynamic Environments  
+- Memory-Efficient Gaussian Fitting for Depth Images in Real Time  
+- Reconstructing Occluded Elevation Information in Terrain Maps with Self-Supervised Learning
+
+## LiDAR-inertial odometry / LiDAR-inertial SLAM  
+- Globally Consistent and Tightly Coupled 3D LiDAR Inertial Mapping  
+- Interval-Based Visual-Inertial LiDAR SLAM with Anchoring Poses
 
 ## LiDAR localization / LiDAR place recognition  
 - LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition  
 - HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud  
+- FP-Loc: Lightweight and Drift-Free Floor Plan-Assisted LiDAR Localization  
+- MinkLoc3D-SI: 3D LiDAR Place Recognition with Sparse Convolutions, Spherical Coordinates, and Intensity  
+- OpenStreetMap-Based LiDAR Global Localization in Urban Environment without a Prior LiDAR Map  
 - 
 
 ## Point cloud registration  
 - Translation Invariant Global Estimation of Heading Angle Using Sinogram of LiDAR Point Cloud  
 - Generalized 3D Rigid Point Set Registration with Anisotropic Positional Error Based on Bayesian Coherent Point Drift  
+- Fast and Robust Registration of Partially Overlapping Point Clouds  
+- Deep Bayesian ICP Covariance Estimation  
+- A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments  
+- K-Closest Points and Maximum Clique Pruning for Efficient and Effective 3-D Laser Scan Matching  
 - 
 
 ## Sensor fusion  
@@ -87,11 +140,16 @@ What is in **bold** is outstanding paper.
 - LB-L2L-Calib: Accurate and Robust Extrinsic Calibration for Multiple 3D LiDARs with Long Baseline and Large Viewpoint Difference  
 - Accurate Calibration of Multi-Perspective Cameras from a Generalization of the Hand-Eye Constraint  
 - LTSR: Long-Term Semantic Relocalization Based on HD Map for Autonomous Vehicles  
+- HDMapNet: An Online HD Map Construction and Evaluation Framework  
+- Spatiotemporal Multisensor Calibration Via Gaussian Processes Moving Target Tracking  
+- Extrinsic Calibration of Multiple Inertial Sensors from In-Flight Data  
+- Information-Theoretic Online Multi-Camera Extrinsic Calibration  
 - 
 
 ## Inertial odometry  
 - A2DIO: Attention-Driven Deep Inertial Odometry for Pedestrian Localization Based on 6D IMU  
 - Improved Kalman-Particle Kernel Filter on Lie Groups Applied to Angles-Only UAV Navigation  
+- Improved State Propagation through AI-Based Pre-Processing and Down-Sampling of High-Speed Inertial Data  
 - 
 
 ## WiFi SLAM / WiFi Structure-From-Motion  
@@ -104,10 +162,13 @@ What is in **bold** is outstanding paper.
 - DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM with Two-Stage Global-Local Graph Optimization  
 - Collaborative Robot Mapping Using Spectral Graph Analysis  
 - MR-GMMapping: Communication Efficient Multi-Robot Mapping System Via Gaussian Mixture Model  
+- Flexible and Resource-Efficient Multi-Robot Collaborative Visual-Inertial-Range Localization  
+- A Test Platform for UWB-Based Localization of Dynamic Multi-Agent Systems  
 - 
 
 
 ## Scene Flow  
 - RMS-FlowNet: Efficient and Robust Multi-Scale Scene Flow Estimation for Large-Scale Point Clouds  
 - Scalable Scene Flow from Point Clouds in the Real World  
+- Fusion-FlowNet: Energy-Efficient Optical Flow Estimation Using Sensor Fusion and Deep Fused Spiking-Analog Network Architectures  
 - 
