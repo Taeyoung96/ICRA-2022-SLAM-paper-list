@@ -60,7 +60,14 @@ The title in **bold** is outstanding paper.
 - Panoptic Multi-TSDFs: A Flexible Representation for Online Multi-Resolution Volumetric Mapping and Long-Term Dynamic Scene Consistency  
 - FD-SLAM: 3-D Reconstruction Using Features and Dense Matching  
 - AirDOS: Dynamic SLAM Benefits from Articulated Objects  
+- A Real-Time Online Learning Framework for Joint 3D Reconstruction and Semantic Segmentation of Indoor Scenes  
+- Vision-Based Large-Scale 3D Semantic Mapping for Autonomous Driving Applications  
+- Efficient and Robust Semantic Mapping for Indoor Environments  
+- Asynchronous Optimisation for Event-Based Visual Odometry  
+- **Optimizing Terrain Mapping and Landing Site Detection for Autonomous UAVs**  
+- Exploration with Global Consistency Using Real-Time Re-Integration and Active Loop Closure  
 - 
+
 
 
 ## Visual-inertial odometry / Visual-inertial SLAM  
@@ -73,6 +80,16 @@ The title in **bold** is outstanding paper.
 - Interval-Based Visual-Inertial LiDAR SLAM with Anchoring Poses  
 - The Visual-Inertial-Dynamical Multirotor Dataset  
 - Map-Based Visual-Inertial Localization: A Numerical Study  
+- GPS-Denied Global Visual-Inertial Ground Vehicle State Estimation Via Image Registration  
+- Integrating Point and Line Features for Visual-Inertial Initialization  
+- Periodic SLAM: Using Cyclic Constraints to Improve the Performance of Visual-Inertial SLAM on Legged Robots  
+- DM-VIO: Delayed Marginalization Visual-Inertial Odometry  
+- Constrained Visual-Inertial Localization with Application and Benchmark in Laparoscopic Surgery  
+- Balancing the Budget: Feature Selection and Tracking for Multi-Camera Visual-Inertial Odometry  
+- FEJ2: A Consistent Visual-Inertial State Estimator Design  
+- Decoupled Right Invariant Error States for Consistent Visual-Inertial Navigation  
+- Leveraging Structural Information to Improve Point Line Visual-Inertial Odometry  
+- 
 
 ## Visual localization / Visual place recognition  
 - A Deep Feature Aggregation Network for Accurate Indoor Camera Localization  
@@ -95,6 +112,7 @@ The title in **bold** is outstanding paper.
 - Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs  
 - HD Ground - a Database for Ground Texture Based Localization  
 - Crossview Mapping with Graph-Based Geolocalization on City-Scale Street Maps  
+- Indoor Localization for Quadrotors Using Invisible Projected Tags  
 - 
 
 ## LiDAR odometry / LiDAR SLAM
@@ -144,6 +162,9 @@ The title in **bold** is outstanding paper.
 - Spatiotemporal Multisensor Calibration Via Gaussian Processes Moving Target Tracking  
 - Extrinsic Calibration of Multiple Inertial Sensors from In-Flight Data  
 - Information-Theoretic Online Multi-Camera Extrinsic Calibration  
+- Self-Supervised Camera Self-Calibration from Video  
+- FusionNet: Coarse-To-Fine Extrinsic Calibration Network of LiDAR and Camera with Hierarchical Point-Pixel Fusion  
+- Graph-Based Multi-Sensor Fusion for Consistent Localization of Autonomous Construction Robots  
 - 
 
 ## Inertial odometry  
@@ -164,6 +185,9 @@ The title in **bold** is outstanding paper.
 - MR-GMMapping: Communication Efficient Multi-Robot Mapping System Via Gaussian Mixture Model  
 - Flexible and Resource-Efficient Multi-Robot Collaborative Visual-Inertial-Range Localization  
 - A Test Platform for UWB-Based Localization of Dynamic Multi-Agent Systems  
+- Multirobot Collaborative Monocular SLAM Utilizing Rendezvous  
+- Self-Supervised Monocular Multi-Robot Relative Localization with Efficient Deep Neural Networks  
+- Aerial-Ground Robots Collaborative 3D Mapping in GNSS-Denied Environments  
 - 
 
 
