@@ -27,6 +27,8 @@ The title in **bold** is outstanding paper.
 - 6TH WORKSHOP ON LEGGED ROBOTS - [Website](https://leggedrobots.org/)  
 - Canonical DIY Tutorials on Non-Gaussian SLAM and Computation - [Website](https://www.navability.io/icra-2022-non-gaussian-slam-workshop/)  
 
+[[top](#icra-2022-slam-paper-list)]
+
 ## Visual odometry / Visual SLAM / Structure-From-Motion  
 - Burst Imaging for Light-Constrained Structure-From-Motion  
 - Self-Supervised Depth and Ego-Motion Estimation for Monocular Thermal Video Using Multi-Spectral Consistency Loss  
@@ -66,9 +68,10 @@ The title in **bold** is outstanding paper.
 - Asynchronous Optimisation for Event-Based Visual Odometry  
 - **Optimizing Terrain Mapping and Landing Site Detection for Autonomous UAVs**  
 - Exploration with Global Consistency Using Real-Time Re-Integration and Active Loop Closure  
-- 
+- SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints  
+- Accurate and Robust Object-Oriented SLAM with 3D Quadric Landmarks in Outdoors  
 
-
+[[top](#icra-2022-slam-paper-list)]
 
 ## Visual-inertial odometry / Visual-inertial SLAM  
 - High Definition, Inexpensive, Underwater Mapping  
@@ -89,7 +92,8 @@ The title in **bold** is outstanding paper.
 - FEJ2: A Consistent Visual-Inertial State Estimator Design  
 - Decoupled Right Invariant Error States for Consistent Visual-Inertial Navigation  
 - Leveraging Structural Information to Improve Point Line Visual-Inertial Odometry  
-- 
+
+[[top](#icra-2022-slam-paper-list)]
 
 ## Visual localization / Visual place recognition  
 - A Deep Feature Aggregation Network for Accurate Indoor Camera Localization  
@@ -113,7 +117,9 @@ The title in **bold** is outstanding paper.
 - HD Ground - a Database for Ground Texture Based Localization  
 - Crossview Mapping with Graph-Based Geolocalization on City-Scale Street Maps  
 - Indoor Localization for Quadrotors Using Invisible Projected Tags  
-- 
+- AirLoop: Lifelong Loop Closure Detection  
+
+[[top](#icra-2022-slam-paper-list)]
 
 ## LiDAR odometry / LiDAR SLAM
 - Learning Spatiotemporal Occupancy Grid Maps for Lifelong Navigation in Dynamic Scenes  
@@ -132,9 +138,14 @@ The title in **bold** is outstanding paper.
 - Memory-Efficient Gaussian Fitting for Depth Images in Real Time  
 - Reconstructing Occluded Elevation Information in Terrain Maps with Self-Supervised Learning
 
+[[top](#icra-2022-slam-paper-list)]
+
 ## LiDAR-inertial odometry / LiDAR-inertial SLAM  
 - Globally Consistent and Tightly Coupled 3D LiDAR Inertial Mapping  
-- Interval-Based Visual-Inertial LiDAR SLAM with Anchoring Poses
+- Interval-Based Visual-Inertial LiDAR SLAM with Anchoring Poses  
+- R3LIVE: A Robust, Real-Time, RGB-Colored, LiDAR-Inertial-Visual Tightly-Coupled State Estimation and Mapping Package  
+
+[[top](#icra-2022-slam-paper-list)]
 
 ## LiDAR localization / LiDAR place recognition  
 - LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition  
@@ -142,7 +153,9 @@ The title in **bold** is outstanding paper.
 - FP-Loc: Lightweight and Drift-Free Floor Plan-Assisted LiDAR Localization  
 - MinkLoc3D-SI: 3D LiDAR Place Recognition with Sparse Convolutions, Spherical Coordinates, and Intensity  
 - OpenStreetMap-Based LiDAR Global Localization in Urban Environment without a Prior LiDAR Map  
-- 
+- Retriever: Point Cloud Retrieval in Compressed 3D Maps  
+
+[[top](#icra-2022-slam-paper-list)]
 
 ## Point cloud registration  
 - Translation Invariant Global Estimation of Heading Angle Using Sinogram of LiDAR Point Cloud  
@@ -151,7 +164,9 @@ The title in **bold** is outstanding paper.
 - Deep Bayesian ICP Covariance Estimation  
 - A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments  
 - K-Closest Points and Maximum Clique Pruning for Efficient and Effective 3-D Laser Scan Matching  
-- 
+- FuzzyPSReg: Strategies of Fuzzy Cluster-Based Point Set Registration  
+
+[[top](#icra-2022-slam-paper-list)]
 
 ## Sensor fusion  
 - Extrinsic Calibration and Verification of Multiple Non-Overlapping Field of View Lidar Sensors  
@@ -165,18 +180,21 @@ The title in **bold** is outstanding paper.
 - Self-Supervised Camera Self-Calibration from Video  
 - FusionNet: Coarse-To-Fine Extrinsic Calibration Network of LiDAR and Camera with Hierarchical Point-Pixel Fusion  
 - Graph-Based Multi-Sensor Fusion for Consistent Localization of Autonomous Construction Robots  
-- 
+
+[[top](#icra-2022-slam-paper-list)]
 
 ## Inertial odometry  
 - A2DIO: Attention-Driven Deep Inertial Odometry for Pedestrian Localization Based on 6D IMU  
 - Improved Kalman-Particle Kernel Filter on Lie Groups Applied to Angles-Only UAV Navigation  
 - Improved State Propagation through AI-Based Pre-Processing and Down-Sampling of High-Speed Inertial Data  
-- 
+
+[[top](#icra-2022-slam-paper-list)]
 
 ## WiFi SLAM / WiFi Structure-From-Motion  
 - Single User WiFi Structure from Motion in the Wild  
 - P2SLAM: Bearing Based WiFi SLAM for Indoor Robots  
-- 
+
+[[top](#icra-2022-slam-paper-list)]
 
 ## Collaborative SLAM  
 - Robust and Accurate Multi-Agent SLAM with Efficient Communication for Smart Mobiles  
@@ -188,11 +206,14 @@ The title in **bold** is outstanding paper.
 - Multirobot Collaborative Monocular SLAM Utilizing Rendezvous  
 - Self-Supervised Monocular Multi-Robot Relative Localization with Efficient Deep Neural Networks  
 - Aerial-Ground Robots Collaborative 3D Mapping in GNSS-Denied Environments  
-- 
 
+[[top](#icra-2022-slam-paper-list)]
 
 ## Scene Flow  
 - RMS-FlowNet: Efficient and Robust Multi-Scale Scene Flow Estimation for Large-Scale Point Clouds  
 - Scalable Scene Flow from Point Clouds in the Real World  
 - Fusion-FlowNet: Energy-Efficient Optical Flow Estimation Using Sensor Fusion and Deep Fused Spiking-Analog Network Architectures  
-- 
+- From Scene Flow to Visual Odometry through Local and Global Regularisation in Markov Random Fields  
+- SAFIT: Segmentation-Aware Scene Flow with Improved Transformer  
+
+[[top](#icra-2022-slam-paper-list)]
