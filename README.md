@@ -7,7 +7,8 @@ If there are any missing papers or incorrect information, please feel free to co
 The title in **bold** is outstanding paper.  
 
 ## Table of contents  
-- [ICRA 2022 workshop related to SLAM](#icra-2022-workshop-related-to-slam)
+- [ICRA 2022 workshop related to SLAM](#icra-2022-workshop-related-to-slam)  
+- [Dataset](#dataset)
 - [Visual odometry / Visual SLAM / Structure-From-Motion](#visual-odometry--visual-slam--structure-from-motion)  
 - [Visual-inertial odometry / Visual-inertial SLAM](#visual-inertial-odometry--visual-inertial-slam)  
 - [Visual localization / Visual place recognition](#visual-localization--visual-place-recognition)
@@ -28,6 +29,9 @@ The title in **bold** is outstanding paper.
 - Canonical DIY Tutorials on Non-Gaussian SLAM and Computation - [Website](https://www.navability.io/icra-2022-non-gaussian-slam-workshop/)  
 
 [[top](#icra-2022-slam-paper-list)]
+
+## Dataset  
+- M2DGR: A Multi-Sensor and Multi-Scenario SLAM Dataset for Ground Robots
 
 ## Visual odometry / Visual SLAM / Structure-From-Motion  
 - Burst Imaging for Light-Constrained Structure-From-Motion  
