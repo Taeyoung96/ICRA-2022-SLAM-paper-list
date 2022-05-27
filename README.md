@@ -158,6 +158,7 @@ The title in **bold** is outstanding paper.
 - MinkLoc3D-SI: 3D LiDAR Place Recognition with Sparse Convolutions, Spherical Coordinates, and Intensity  
 - OpenStreetMap-Based LiDAR Global Localization in Urban Environment without a Prior LiDAR Map  
 - Retriever: Point Cloud Retrieval in Compressed 3D Maps  
+- RINet: Efficient 3D Lidar-Based Place Recognition Using Rotation Invariant Neural Network  
 
 [[top](#icra-2022-slam-paper-list)]
 
