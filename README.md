@@ -148,6 +148,7 @@ The title in **bold** is outstanding paper.
 - Globally Consistent and Tightly Coupled 3D LiDAR Inertial Mapping  
 - Interval-Based Visual-Inertial LiDAR SLAM with Anchoring Poses  
 - R3LIVE: A Robust, Real-Time, RGB-Colored, LiDAR-Inertial-Visual Tightly-Coupled State Estimation and Mapping Package  
+- Graph-based Multi-sensor Fusion for Consistent Localization of Autonomous Construction Robots  
 
 [[top](#icra-2022-slam-paper-list)]
 
