@@ -122,6 +122,7 @@ The title in **bold** is outstanding paper.
 - Crossview Mapping with Graph-Based Geolocalization on City-Scale Street Maps  
 - Indoor Localization for Quadrotors Using Invisible Projected Tags  
 - AirLoop: Lifelong Loop Closure Detection  
+- HD Ground – A Database for Ground Texture Based Localization  
 
 [[top](#icra-2022-slam-paper-list)]
 
